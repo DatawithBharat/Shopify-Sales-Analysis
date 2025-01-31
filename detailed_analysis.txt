@@ -1,0 +1,55 @@
+Shopify Sales Dashboard - USA
+
+Overview
+
+This dashboard provides a comprehensive analysis of Shopify sales data across the United States. It visualizes key metrics such as total sales, average bill, and total orders while offering insights into sales distribution by region, state, city, category, and shipping mode.
+
+Key Highlights
+
+Total Sales: $22,97,200.86
+
+Average Bill: $229.86
+
+Total Orders: 9,994
+
+
+Sales Breakdown
+
+By State: California leads in sales, followed by New York, Pennsylvania, Texas, and Washington.
+
+By City: New York City tops the list, followed by Los Angeles, Philadelphia, San Francisco, and Seattle.
+
+By Region: Sales distribution is highest in the West, followed by the East, South, and Central regions.
+
+By Category: Technology dominates sales, followed by Office Supplies and Furniture.
+
+By Sub-Category: Chairs, Phones, and Storage contribute the most to sales.
+
+By Shipping Mode: Standard Class is the most used, followed by Second Class, First Class, and Same Day.
+
+Yearly Trend: Sales have shown a rising trend from 2021 to 2024.
+
+
+Usage
+
+This dashboard can be useful for:
+
+Understanding Shopify sales trends across different dimensions.
+
+Identifying key regions and categories driving sales.
+
+Optimizing shipping methods for cost efficiency.
+
+Making data-driven business decisions to enhance sales performance.
+
+
+Technologies Used
+
+Visualization Tool: Excel
+
+Data Source: Shopify Sales Data
+
+File Type: Excel
+
+
+Feel free to contribute by adding more visualizations and insights!
